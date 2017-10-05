@@ -19,6 +19,8 @@ var rules = [
             "baidu.com", 
             "chinaso.com", 
             "placker.com", 
+            "websequencediagrams.com",
+            "github.io",
             "gitbook.com",
             "gitbooks.io",
             "readthedocs.io",
