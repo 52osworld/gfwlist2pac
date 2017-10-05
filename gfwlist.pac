@@ -23,6 +23,7 @@ var rules = [
             "gitbooks.io",
             "readthedocs.io",
             "readthedocs.com",
+            "readthedocs.org",
             "chinaz.com", 
             "chukuang.gov.tw", 
             "cycab.gov.tw", 
